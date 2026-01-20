@@ -1,1 +1,43 @@
+# Privacy Policy for QR Lite
 
+**Last Updated: January 20, 2025**
+
+QR Lite ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, and disclosure of information through our mobile application, **QR Lite**.
+
+## 1. Introduction
+QR Lite is designed as an **offline-first** utility. Our primary goal is to provide a fast, secure, and private scanning experience. By using QR Lite, you agree to the terms outlined in this policy.
+
+## 2. Information Collection and Use
+
+### A. Local Data (Your Privacy)
+* **Scan History:** Any data you scan (URLs, Contacts, Text, etc.) is stored **locally on your device** using an encrypted-ready database (Hive). 
+* **Zero Server Uploads:** We do NOT upload, store, or transmit your scan history or any generated QR codes to our servers or any third-party servers.
+* **Deletion:** Your scan history remains on your device until you manually delete it or uninstall the application.
+
+### B. Personal Information
+We do **not** require any user registration, login, or personal profile creation. We do not collect names, email addresses, phone numbers, or any other personally identifiable information (PII).
+
+## 3. Device Permissions
+To function correctly, QR Lite requires the following permission:
+* **Camera Access:** Required solely to scan QR codes and barcodes. The camera is only active while the app is in the scanning mode. We do not record or store any video or photo data from your camera.
+
+## 4. Advertising (Third-Party Services)
+We use **Google AdMob** to serve advertisements within the app to support its development.
+* **Data Collected by AdMob:** AdMob may collect and use certain data, such as your device’s Advertising ID, IP address, and device information, to serve personalized or non-personalized advertisements.
+* **Opt-Out:** You can opt-out of personalized advertising through your device's Google settings (Ads > Reset Advertising ID or Opt out of Ads Personalization).
+* **AdMob Privacy:** For more information on how Google handles data, please visit [Google’s Privacy & Terms](https://policies.google.com/privacy).
+
+## 5. Data Security
+The security of your data is important to us. Since all scan history is stored locally on your device, its security depends on the security features of your mobile device (e.g., passcodes, biometrics). We recommend keeping your device updated and secured.
+
+## 6. Children’s Privacy
+QR Lite does not knowingly collect personal information from children under the age of 13. Since we collect no personal data, the app is safe for users of all ages. However, if you are a parent or guardian and believe that Google AdMob has collected information from your child, please refer to Google’s privacy policy.
+
+## 7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+## 8. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+
+**Email:** [YOUR_EMAIL_HERE]
+**Website:** https://appzenstudioo.github.io/qr-lite/
