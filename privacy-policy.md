@@ -39,5 +39,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ## 8. Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-**Email:** [YOUR_EMAIL_HERE]
+**Email:** appzenstudioo@gmail.com
 **Website:** https://appzenstudioo.github.io/qr-lite/
