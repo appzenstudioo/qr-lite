@@ -41,8 +41,5 @@ We reserve the right to modify these Terms at any time. We will notify you of ch
 
 ## 10. Contact Us
 If you have any questions about these Terms, please contact us at:
-mail:appzenstudioo@gmail.com
-
-
-**Email:** [YOUR_EMAIL_HERE]
+**Email:appzenstudioo@gmail.com
 **GitHub Repository:** https://github.com/appzenstudioo/qr-lite
